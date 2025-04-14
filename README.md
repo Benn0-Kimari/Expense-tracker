@@ -51,5 +51,3 @@ This project is built with:
 
 
 
-Yes, you can!
-
